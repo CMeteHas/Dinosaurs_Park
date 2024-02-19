@@ -1,3 +1,4 @@
+"Coded by Cagan"
 import random
 import tkinter as tk
 from tkinter import messagebox, filedialog
@@ -138,3 +139,6 @@ listbox.pack(fill=tk.BOTH, expand=True)
 refresh_dinosaur_list()
 
 root.mainloop()
+
+
+
